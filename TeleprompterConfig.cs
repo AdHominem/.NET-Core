@@ -6,6 +6,7 @@ using static System.Math;
 
 namespace TeleprompterConsole
 {
+    // Configures the Teleprompter to use a given delay
     internal class TeleprompterConfig
     {
         private bool done;
